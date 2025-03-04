@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GraphiTeck
-- 👀 I’m into Graphic designs and also interested in full stack
-- 🌱 So I’m currently learning python
-- 💞️ I’m looking forward to learning from y'all
-- 📫 you can reach me on twitter @Aurevex
+- 👋 Hi, I’m @graphiteck
+- 🌱 I’m currently learning python
+- 💞️looking forward to learn from y'all
+  
 
 <!---
 GraphiTeck/GraphiTeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
