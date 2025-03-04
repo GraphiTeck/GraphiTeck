@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @graphiteck
 - 🌱 I’m currently learning python
-- 💞️looking forward to learn from y'all
+- 💞️ Looking forward to learn from y'all
   
 
 <!---
